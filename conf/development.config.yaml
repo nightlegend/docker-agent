@@ -1,0 +1,7 @@
+docker_daemon_url: 'http://127.0.0.1:2375'
+username: 'test'
+password: 'test'
+email: 'test@test.com'
+registry: 'private.registry.com'
+port: '8000'
+host: '0.0.0.0'
